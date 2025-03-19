@@ -1,1 +1,1 @@
-variable1=10
+variable1=9
